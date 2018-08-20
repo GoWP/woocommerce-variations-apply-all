@@ -3,7 +3,7 @@
 Plugin Name: GoWP WooCommerce Variations Apply All
 Plugin URL: https://www.gowp.com/blog/apply-the-price-of-a-woocommerce-product-variation-to-all-variations-of-the-same-product/
 Description: Adds a link to variation edit screen to apply a price to all variations
-Version:     1.0.1
+Version:     1.0.2
 Author:      GoWP
 Author URI:  https://www.gowp.com
 */
