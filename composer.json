@@ -1,0 +1,24 @@
+{
+    "name": "gowp/woocommerce-variations-apply-all",
+    "description": "Apply the price of a WooCommerce product variation to all variations",
+    "homepage": "https://github.com/GoWP/woocommerce-variations-apply-all",
+    "keywords": [
+        "WordPress", "plugin", "WooCommerce", "WordPress", "variations", "variation", "price", "apply", "all"
+    ],
+    "support": {
+        "issues": "https://github.com/GoWP/woocommerce-variations-apply-all/issues",
+        "source": "https://github.com/GoWP/woocommerce-variations-apply-all"
+    },
+    "type": "wordpress-plugin",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "GoWP",
+            "email": "support@gowp.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0",
+        "composer/installers": "~1.0"
+    }
+}
